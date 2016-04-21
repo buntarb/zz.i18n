@@ -1,0 +1,19 @@
+{
+	"name": "zz.i18n",
+	"version": "20160421.0.0",
+	"description": "Internationalization module for imazzine-developer-lib.",
+	"author": {
+		"name": "Artem Lytvynov",
+		"email": "buntarb@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://imazzine.com/idl/zz.i18n/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/buntarb/zz.i18n.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
